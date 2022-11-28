@@ -1,0 +1,11 @@
+build/
+node_modules/
+package-lock.json
+yarn.lock
+package.json
+.github/
+.next/
+.eslintrc.json
+tsconfig.json
+.storybook/main.js
+Migrations/*.js
